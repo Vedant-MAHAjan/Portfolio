@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Portfolio/static/js/main.86548497.js",
+    "static/media/blackjack.png": "/Portfolio/static/media/blackjack.67de96d4ca21eb621463.png",
+    "static/media/cloud-blog.png": "/Portfolio/static/media/cloud-blog.6e026480a1110dd217d7.png",
+    "static/media/docker-blog.png": "/Portfolio/static/media/docker-blog.7d3f609358e27c35e2d1.png",
+    "static/media/devops-blog.png": "/Portfolio/static/media/devops-blog.0c91662fcec80465118d.png",
+    "static/media/gitaGPT.png": "/Portfolio/static/media/gitaGPT.83c486022b2f6fcb93e5.png",
+    "static/media/rock.png": "/Portfolio/static/media/rock.d41eb50e2428efe48182.png",
+    "static/media/task_tracker.png": "/Portfolio/static/media/task_tracker.7a45bd44f4970eecfc57.png",
+    "static/media/jenkins_docker_node.png": "/Portfolio/static/media/jenkins_docker_node.c86dc5af786407d945ae.png",
+    "static/media/tenzies.png": "/Portfolio/static/media/tenzies.aced8b4f5989658cffe1.png",
+    "static/media/docker_node.png": "/Portfolio/static/media/docker_node.af748ac5dc2ffc00824e.png",
+    "static/media/bash.png": "/Portfolio/static/media/bash.d9014362667ee17182b8.png",
+    "static/media/docker_ecs.png": "/Portfolio/static/media/docker_ecs.3be7d97e80cc30b5c970.png",
+    "static/media/jenkins-ci.png": "/Portfolio/static/media/jenkins-ci.8e7dd3f5fb679b4b71ac.png",
+    "index.html": "/Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Portfolio/static/css/main.bf538fe7.css.map",
+    "main.86548497.js.map": "/Portfolio/static/js/main.86548497.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.86548497.js"
+  ]
+}
