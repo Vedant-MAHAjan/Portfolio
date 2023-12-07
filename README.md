@@ -35,8 +35,11 @@ To run this portfolio locally, follow these steps:
 
 Open your browser and visit `http://localhost:3000` to view the portfolio.
 
-## Feedback
+## How to deploy a React-based website on GitHub
 
-If you have any feedback or suggestions, feel free to open an issue or contact me directly.
+1. Add `"homepage":"https://myusername.github.io/app_name"` with the portfolio link in `package.json` file
+2. Add `"predeploy": "npm run build", "deploy": "gh-pages -d build"` to scripts section of `package.json` file
+3. Run `npm run deploy` to create a production build of the site
+4. Make sure the GitHub pages for the repository is deployed from `gh-pages` branch
 
 Thank you for visiting!
